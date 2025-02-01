@@ -8,6 +8,9 @@
     font-weight: normal;
 
 }
+
+.nojekyll
+
 /*
 #c5ebd6
 #83e1ad
@@ -29,8 +32,6 @@
 --fonte-destaque: 'Bebas Neue', sans-serif;
 --fonte-android: 'Android', sans-serif;
 }
-
-.nojekyll
 
 *{
 margin: 0px;
